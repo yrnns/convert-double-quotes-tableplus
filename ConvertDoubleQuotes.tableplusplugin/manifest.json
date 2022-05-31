@@ -1,0 +1,18 @@
+{
+  "name": "Convert Double Quotes",
+  "identifier": "git.tableplus-convert-double-quotes",
+  "version": "1.0",
+  "detail": "This plugin helps you get single quote instead of double quote",
+  "author": "Umutcan Ülben",
+  "site": "https://github.com/yrnns/convert-double-quotes-tableplus",
+  "authorEmail": "umudyy@gmail.com",
+  "scripts": [
+    {
+      "location": "main",
+      "type": "action",
+      "shortcut": "control+d",
+      "script": "plugin.js",
+      "name": "Convert Double Quotes"
+    }
+  ]
+}
